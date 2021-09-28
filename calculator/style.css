@@ -1,0 +1,35 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+    
+}
+table,tr,td
+{
+    width: 190px;
+    margin: 0 auto;
+    padding: 10px ;
+    border: 2px solid black;
+    background: #938484;
+    text-align: center;
+
+}
+input[type="text"]
+{
+    font-weight:200px;
+    padding: 5px 10px;
+    
+}
+input[type="button"]
+{
+    
+    padding: 5px 10px;
+    background:#938484; 
+}
+
